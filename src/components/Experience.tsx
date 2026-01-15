@@ -108,7 +108,7 @@ const Experience = () => {
               >
                 {exp.projects.map((project, pIndex) => (
                   <div key={pIndex} style={{ marginBottom: '16px' }}>
-                    {project.name && (
+                    {'name' in project && project.name && (
                       <Title level={5} style={{ marginBottom: '8px' }}>
                         {project.name}
                       </Title>
