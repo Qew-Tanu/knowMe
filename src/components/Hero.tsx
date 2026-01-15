@@ -10,7 +10,7 @@ const Hero = () => {
         {/* Profile Picture */}
         <div style={{ marginBottom: '32px', display: 'flex', justifyContent: 'center' }}>
           <img
-            src="/image/my_pic.gif"
+            src="/image/my_picture.png"
             alt="Tanu Tarathikhamporn"
             style={{ width: '200px', height: '200px', borderRadius: '50%', objectFit: 'cover', boxShadow: '0 8px 32px rgba(0,0,0,0.1)', border: '5px solid white' }}
           />
