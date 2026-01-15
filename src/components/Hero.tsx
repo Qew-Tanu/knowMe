@@ -20,7 +20,7 @@ const Hero = () => {
           TANU TARATHIKHAMPORN
         </Title>
         <Title level={2} style={{ fontSize: '28px', fontWeight: 400, marginBottom: '16px' }}>
-          Full-Stack Developer | Former Project Engineer
+          Full-Stack Developer
         </Title>
         <Text style={{ fontSize: '18px', color: '#666', display: 'block', marginBottom: '32px' }}>
           Ratchaburi, Thailand
