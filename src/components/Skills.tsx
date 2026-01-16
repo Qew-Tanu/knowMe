@@ -42,7 +42,7 @@ const Skills = () => {
   ]
 
   return (
-    <section id="skills" style={{ padding: '80px 24px', background: '#f5f5f5' }}>
+    <section id="skills" style={{ padding: '80px 24px', background: '#fff' }}>
       <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
         <Title level={2} style={{ textAlign: 'center', marginBottom: '48px', fontSize: '36px' }}>
           Technical Skills

@@ -79,7 +79,7 @@ const Experience = () => {
   ]
 
   return (
-    <section id="experience" style={{ padding: '80px 24px', background: '#fff' }}>
+    <section id="experience" style={{ padding: '80px 24px', background: '#f5f5f5' }}>
       <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
         <Title level={2} style={{ textAlign: 'center', marginBottom: '48px', fontSize: '36px' }}>
           Work Experience
