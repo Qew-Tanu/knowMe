@@ -7,8 +7,8 @@ const Header = () => {
   const menuItems = [
     { key: 'home', icon: <HomeOutlined />, label: <a href="#">Home</a> },
     { key: 'about', icon: <UserOutlined />, label: <a href="#about">About</a> },
-    { key: 'skills', icon: <CodeOutlined />, label: <a href="#skills">Skills</a> },
     { key: 'experience', icon: <ExperimentOutlined />, label: <a href="#experience">Experience</a> },
+    { key: 'skills', icon: <CodeOutlined />, label: <a href="#skills">Skills</a> },    
     { key: 'education', icon: <BookOutlined />, label: <a href="#education">Education</a> },
     { key: 'contact', icon: <MailOutlined />, label: <a href="#contact">Contact</a> },
   ]

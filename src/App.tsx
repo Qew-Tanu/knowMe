@@ -17,8 +17,8 @@ function App() {
       <Content>
         <Hero />
         <About />
-        <Skills />
         <Experience />
+        <Skills />        
         <Education />
         <Contact />
       </Content>
